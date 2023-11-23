@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>114321324661-390gmhgithcetugrmlkt1npgm2s1ls4s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.114321324661-390gmhgithcetugrmlkt1npgm2s1ls4s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJw15IIWXLE7w7QYxMDqhIRzoKRHBITyg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>114321324661</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.monash.FIT3178-Final-application</string>
+	<key>PROJECT_ID</key>
+	<string>fit3178-final-app---nice-note</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fit3178-final-app---nice-note.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:114321324661:ios:074a11a30546884a48163c</string>
+</dict>
+</plist>

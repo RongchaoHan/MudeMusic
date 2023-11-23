@@ -1,2 +1,9 @@
-# MudeMusic
-个人制作的一个简单的基于swift的iOS音乐软件，开源免费， 欢迎大家来尝试下载
+# Final Application
+
+
+
+## First implementation
+1. File Table view
+2. Task Table view
+3. Firebase login and store
+4. Layout

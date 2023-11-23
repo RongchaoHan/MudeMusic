@@ -1,0 +1,33 @@
+
+/* Class = "UITableViewController"; title = "Tasks"; ObjectID = "7lU-ng-TGU"; */
+"7lU-ng-TGU.title" = "Tasks";
+
+/* Class = "UIButton"; configuration.title = "Log in"; ObjectID = "9mn-So-8vu"; */
+"9mn-So-8vu.configuration.title" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9mn-So-8vu"; */
+"9mn-So-8vu.normalTitle" = "Button";
+
+/* Class = "UITableViewController"; title = "Files"; ObjectID = "EpJ-Qm-8vZ"; */
+"EpJ-Qm-8vZ.title" = "Files";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "H4P-Al-Xjg"; */
+"H4P-Al-Xjg.text" = "Email";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "RIP-UM-rcN"; */
+"RIP-UM-rcN.text" = "Password";
+
+/* Class = "UITabBarItem"; title = "Tasks"; ObjectID = "jsc-YD-vTn"; */
+"jsc-YD-vTn.title" = "Tasks";
+
+/* Class = "UIViewController"; title = "Sign up"; ObjectID = "kQn-Qw-Pf4"; */
+"kQn-Qw-Pf4.title" = "Sign up";
+
+/* Class = "UIButton"; configuration.title = "Sign up"; ObjectID = "mTL-gY-C5c"; */
+"mTL-gY-C5c.configuration.title" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mTL-gY-C5c"; */
+"mTL-gY-C5c.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Files"; ObjectID = "yNU-um-PLU"; */
+"yNU-um-PLU.title" = "Files";
